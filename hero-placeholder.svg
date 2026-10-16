@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1050">
+<defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#cadacb"/><stop offset="1" stop-color="#72947a"/></linearGradient></defs>
+<rect width="1600" height="1050" fill="url(#a)"/><circle cx="1220" cy="220" r="220" fill="#f5efe3" opacity=".55"/>
+<path d="M0 830C240 650 380 740 560 570c210-200 380-30 560-200 120-115 285-82 480-185v865H0z" fill="#183d2d" opacity=".34"/>
+<path d="M0 900c270-110 470-85 650-205 220-145 430-20 950-250v605H0z" fill="#173d2d" opacity=".58"/>
+<text x="100" y="890" font-family="Arial,sans-serif" font-size="44" fill="#fff">PLACEHOLDER · nahraďte klientskou fotografií</text></svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+      <defs>
+        <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0" stop-color="#dde8dc"/><stop offset="1" stop-color="#b7cdb9"/>
+        </linearGradient>
+      </defs>
+      <rect width="1200" height="800" fill="url(#g)"/>
+      <circle cx="940" cy="165" r="210" fill="#f6f1e8" opacity=".8"/>
+      <path d="M0 675 C180 500 330 590 460 455 C590 320 760 440 860 315 C980 160 1100 275 1200 190 V800 H0Z" fill="#315f45" opacity=".28"/>
+      <path d="M0 730 C170 620 350 655 520 560 C710 455 860 565 1200 400 V800 H0Z" fill="#173d2d" opacity=".36"/>
+      <g transform="translate(106 118)" fill="none" stroke="#173d2d" stroke-width="12" stroke-linecap="round">
+        <path d="M90 170C90 80 145 22 234 20c-3 104-49 157-144 150Z"/>
+        <path d="M92 173c38-68 78-105 136-143"/>
+      </g>
+      <text x="106" y="610" fill="#173d2d" font-family="Arial, sans-serif" font-size="52" font-weight="700">Klientská fotografie</text>
+      <text x="108" y="670" fill="#315f45" font-family="Arial, sans-serif" font-size="28">Bioodpad · nahradit skutečnou fotografií</text>
+    </svg>
