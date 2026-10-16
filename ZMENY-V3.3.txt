@@ -1,0 +1,11 @@
+ZAHRADA VAŠKO – VERZE 3.3
+
+Nové bronzovo-zelené reliéfní kruhové štítky, sjednocené se skutečným logem:
+- Služby: ZAHRADA / VAŠKO / ZAHRADNICKÉ SLUŽBY
+- Galerie: REALIZACE / 112 / FOTOGRAFIÍ V ARCHIVU
+- Ceny: CENOVÁ NABÍDKA / NA MÍRU / FÉROVĚ A PŘEHLEDNĚ
+- Kontakt: JSME TU PRO VÁS / NAPIŠTE / POJĎME TO SPOLEČNĚ PROBRAT
+
+Vizuály jsou obrázky WebP s průhledným pozadím, uložené lokálně v images/stamps.
+Původní bronzové hlavní logo Zahrada Vaško zůstalo beze změny.
+Změny z V3.2 (fotografie pro firemní pozemky) zůstaly zachovány.
